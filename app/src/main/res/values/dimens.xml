@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="viewpager_height">220dp</dimen>
+    <dimen name="viewpager_layout_height">300dp</dimen>
+    <dimen name="indicator_height">20dp</dimen>
+    <dimen name="searchbar_height">55dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="margin_large">60dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+</resources>
